@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "googleapis": "^144.0.0",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
