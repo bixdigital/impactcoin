@@ -1,5 +1,5 @@
 // Replace with your Google Apps Script Web App URL
-const googleSheetUrl = 'https://script.google.com/macros/s/YOUR_SCRIPT_ID/exec';
+const googleSheetUrl = 'https://script.google.com/macros/s/AKfycbzRq6LwqbXhDhVF25n1OtpW9RrWL4SENuXuYgYqFktE/exec';
 
 let walletAddress = null;
 
